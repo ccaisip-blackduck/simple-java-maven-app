@@ -2,10 +2,11 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ * 6/26: add comment and push to main, second push change output
  */
 public class App {
 
-    private static final String MESSAGE = "Hello World!";
+    private static final String MESSAGE = "Hello World! Second push";
 
     public App() {}
 
